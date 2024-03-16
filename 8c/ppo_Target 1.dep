@@ -1,0 +1,16 @@
+Dependencies for Project 'ppo', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x51C79CEE)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\keyboard.cpp)(0x64404619)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\Keyboard.h)(0x6440465A)
+F (.\main.cpp)(0x64404789)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\stepper.h)(0x644045C7)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\led.h)(0x64404570)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\keyboard.h)(0x6440465A)
+F (.\led.cpp)(0x64404738)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\led.h)(0x64404570)
+F (.\stepper.cpp)(0x644045C8)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\stepper.o --omf_browse .\stepper.crf --depend .\stepper.d)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\stepper.h)(0x644045C7)
+I (C:\Users\Bartek\OneDrive\Pulpit\ppo\Nowy folder\poczatek\æwiczenie\8c\led.h)(0x64404570)
+F (.\ledinv.cpp)(0x644047A5)()
